@@ -7,7 +7,7 @@ Some facts about me:
 - 🔭 I am still studying for my BSc in Applied IT
 - 🌱 I’m currently learning Java and OOC
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn & understand RDD (Responsibility Driven Design)
+- 🥅 Goals: Learn & understand RDD (Responsibility Driven Design)
 - ⚡ Fun fact: Epstein didn't kill himself
 
 #### Disclaimer:
