@@ -2,7 +2,7 @@
 I'm BSc student in Applied IT @ KdG University of Applied Sciences and Arts
 In between my studies I like to make small projects for games, mods and all kinds of other projects. I love to contribute to other projects too :)
 
-#### Availability:
+#### Freelance Work Availability:
 
 <!-- <img src="https://i.imgur.com/LQugd7S.png" width="60px"> -->
 &nbsp;  &nbsp; <img src="https://i.imgur.com/PVFpof6.png" width="60px">
