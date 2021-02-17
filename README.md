@@ -14,7 +14,7 @@ In between my studies I like to make small projects for games, mods and all kind
 
 Some facts about me:
 
-- 🔭 I am still studying for my BSc in Applied IT
+- 🔭 I am still studying for my P.BSc in Applied IT
 - 🌱 I’m currently learning JavaFX and Python 3
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Learn & understand the MVP pattern
