@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://i.imgur.com/2DF1ZvF.gif" width="30px">
 I'm P.BSc student in Applied IT @ KdG University of Applied Sciences and Arts
-In between my studies I like to make small projects for games, mods and all kinds of other projects. I love to contribute to other projects too :)
+<br />In between my studies I like to make small projects for games, mods and all kinds of other projects. I love to contribute to other projects too :)
 
 #### Freelance Work Availability:
 
