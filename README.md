@@ -15,9 +15,9 @@ I'm P.BSc student in Applied IT @ KdG University of Applied Sciences and Arts
 Some facts about me:
 
 - 🔭 I am still studying for my P.BSc in Applied IT
-- 🌱 I’m currently learning NextJS - VueJS - ReactJS
+- 🌱 I’m currently not avaible, full focus for my exams >.<
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Learn programming my own Arduino
+- 🥅 Goals: Pass my exams?
 - ⚡ Fun fact: Epstein didn't kill himself
 
 #### Disclaimer:
