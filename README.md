@@ -9,7 +9,7 @@ I'm P.BSc student in Applied IT @ KdG University of Applied Sciences and Arts
 
 #### Contact me:
 
-- Discord: **LeventHAN™#0001**
+- Discord: **LeventHAN™#0778**
 - Email: contact@leventhan.info
 
 Some facts about me:
