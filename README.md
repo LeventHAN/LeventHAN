@@ -15,9 +15,9 @@ I'm P.BSc student in Applied IT @ KdG University of Applied Sciences and Arts
 Some facts about me:
 
 - 🔭 I am still studying for my P.BSc in Applied IT
-- 🌱 I’m currently not avaible, full focus for my exams >.<
+- 🌱 I’m currently not avaible, @ vacation
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Pass my exams?
+- 🥅 Goals: Road to Full Stack?
 - ⚡ Fun fact: Epstein didn't kill himself
 
 #### Disclaimer:
