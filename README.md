@@ -11,6 +11,7 @@ I'm P.BSc student in Applied IT @ KdG University of Applied Sciences and Arts
 
 - Discord: **LeventHAN™#0778**
 - Email: contact@leventhan.info
+- ![](https://komarev.com/ghpvc/?username=11TStudio&style=flat-square&label=Visitor+Counts)
 
 Some facts about me:
 
