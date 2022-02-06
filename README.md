@@ -6,7 +6,7 @@ I'm P.BSc student in Applied IT @ KdG University of Applied Sciences and Arts
 
 #### Work Availability:
 Currently working as Back-end Developer @ [YuCopia](https://github.com/Yucopia)
-<br>Freelance availability: Hired by [ABG](https://github.com/ABG-AU)
+<br>Freelance availability: Not available. Working under 2 contracters.
 <!-- <img src="https://i.imgur.com/LQugd7S.png" width="60px"> -->
 &nbsp;  &nbsp; <!--  <img src="https://i.imgur.com/PVFpof6.png" width="60px"> -->
 
