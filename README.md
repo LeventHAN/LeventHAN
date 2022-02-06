@@ -2,10 +2,13 @@
 I'm P.BSc student in Applied IT @ KdG University of Applied Sciences and Arts
 <br />In between my studies I like to make small projects for games, mods and all kinds of other projects. I love to contribute to other projects too :)
 
-#### Freelance Work Availability:
 
+
+#### Work Availability:
+Currently working as Back-end Developer @ [YuCopia](https://github.com/Yucopia)
+<br>Freelance availability: Hired by [ABG](https://github.com/ABG-AU)
 <!-- <img src="https://i.imgur.com/LQugd7S.png" width="60px"> -->
-&nbsp;  &nbsp; <img src="https://i.imgur.com/PVFpof6.png" width="60px">
+&nbsp;  &nbsp; <!--  <img src="https://i.imgur.com/PVFpof6.png" width="60px"> -->
 
 #### Contact me:
 
