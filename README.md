@@ -14,7 +14,6 @@ Currently working as Full stack Developer @ [YuCopia](https://github.com/Yucopia
 
 - Discord: **LeventHAN™#0778**
 - Email: contact@leventhan.info
-- ![](https://komarev.com/ghpvc/?username=11TStudio&style=flat-square&label=Visitor+Counts)
 
 Some facts about me:
 
@@ -23,9 +22,10 @@ Some facts about me:
 - 🥅 Goals: Road to Full Stack!
 - ⚡ Fun fact: Epstein didn't kill himself
 
+<br /> ![](https://komarev.com/ghpvc/?username=11TStudio&style=flat-square&label=Visitor+Counts)
+
 #### Disclaimer:
 The following chart is not showing my skills or my limit of code knowledge.
-
 <br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11TStudio&theme=dracula" />
 
