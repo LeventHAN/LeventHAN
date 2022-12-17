@@ -22,11 +22,11 @@ Some facts about me:
 - 🥅 Goals: Road to Full Stack!
 - ⚡ Fun fact: Epstein didn't kill himself
 
-<br /> ![](https://komarev.com/ghpvc/?username=11TStudio&style=flat-square&label=Visitor+Counts)
-
+<br /> ![](https://komarev.com/ghpvc/?username=11TStudio&style=flat-square&label=Visitor+Counts) (old nick)
+<br /> ![](https://komarev.com/ghpvc/?username=LeventHAN&style=flat-square&label=Visitor+Counts) (new nick)
 #### Disclaimer:
 The following chart is not showing my skills or my limit of code knowledge.
 <br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11TStudio&theme=dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeventHAN&theme=dracula" />
 
-<br><img align="right" src="https://github-readme-stats.vercel.app/api?username=11TStudio&show_icons=true&theme=dracula" />
+<br><img align="right" src="https://github-readme-stats.vercel.app/api?username=LeventHAN&show_icons=true&theme=dracula" />
