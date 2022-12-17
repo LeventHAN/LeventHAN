@@ -22,8 +22,8 @@ Some facts about me:
 - 🥅 Goals: Road to Full Stack!
 - ⚡ Fun fact: Epstein didn't kill himself
 
-<br /> (Past - 17/12/2022) ![](https://komarev.com/ghpvc/?username=11TStudio&style=flat-square&label=Visitor+Counts)
-<br /> (17/12/2022 - Now) ![](https://komarev.com/ghpvc/?username=LeventHAN&style=flat-square&label=Visitor+Counts)
+<br /> ![](https://komarev.com/ghpvc/?username=11TStudio&style=flat-square&label=Visitor+Counts+Including+Old+Nickname)
+<br /> ![](https://komarev.com/ghpvc/?username=LeventHAN&style=plastic&label=Visitor+Counts+New+Nickname)
 #### Disclaimer:
 The following chart is not showing my skills or my limit of code knowledge.
 <br><br>
