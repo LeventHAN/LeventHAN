@@ -5,8 +5,8 @@ I'm P.BSc student in Applied IT @ KdG University of Applied Sciences and Arts
 
 
 #### Work Availability:
-Currently working as Full stack Developer @ [YuCopia](https://github.com/Yucopia) (My work GitHub: [@Levent](https://github.com/LeventMehmed))
-<br>Freelance availability: Not available. Working under 2 contracters.
+Currently working as Full stack Developer @ [YuCopia](https://github.com/Yucopia)
+<br>Freelance availability: Currently not available for a long period.
 <!-- <img src="https://i.imgur.com/LQugd7S.png" width="60px"> -->
 &nbsp;  &nbsp; <!--  <img src="https://i.imgur.com/PVFpof6.png" width="60px"> -->
 
