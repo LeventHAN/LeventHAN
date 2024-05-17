@@ -15,7 +15,7 @@ Currently working as ML Engineer @ [Faktion](#)
 
 Some facts about me:
 
-- 🔭 I am Full Stack Engineer with wide knowladge around DevOps, Infra and AI :)
+- 🔭 I am Full Stack Engineer with wide knowledge around DevOps, Infra and AI :)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Road to AI.
 - ⚡ Fun fact: Epstein didn't kill himself
