@@ -3,7 +3,7 @@ Yet another Full Stack Engineer.
 
 
 #### Work Availability:
-Currently working as ML Engineer @ [Faktion](https://faktion.com)
+Currently working as Full Stack & ML Engineer @ [Faktion](https://faktion.com)
 <br>Freelance availability: NOT AVAILABLE!
 <!-- <img src="https://i.imgur.com/LQugd7S.png" width="60px"> -->
 &nbsp;  &nbsp; <!--  <img src="https://i.imgur.com/PVFpof6.png" width="60px"> -->
