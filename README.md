@@ -10,7 +10,7 @@ Currently working as Full Stack & ML Engineer @ [Faktion](https://faktion.com)
 
 #### Contact me (don't):
 
-- Discord: **LeventHAN™#0778**
+- Discord: **leventhann**
 - Email: contact@leventhan.info
 
 Some facts about me:
