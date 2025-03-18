@@ -17,7 +17,7 @@ Some facts about me:
 
 - 🔭 I am Full Stack Engineer with wide knowledge around DevOps, Infra and AI :)
 - 👯 Open to volunteer for those topics; Economic Empowerment · Education · Politics · Social Services · Science and Technology · Animal Welfare · Health · Environment
-- 🥅 Goals: Open up am IT consulting firm.
+- 🥅 Goals: Open up an IT consulting firm.
 - ⚡ Fun fact: Epstein didn't kill himself
 
 <br /> ![](https://komarev.com/ghpvc/?username=11TStudio&style=flat-square&label=Visitor+Counts+Including+Old+Nickname)
