@@ -4,7 +4,7 @@ There is no such thing as impossible, it's just a matter of figuring out how.
 
 #### Work Availability:
 Currently working as AI/ML & Full Stack Software Engineer @ [Faktion](https://faktion.com)
-<br>Owner/Founder of ReLeventSoftware @ [Soon](#)
+<br>Owner @ [ReLevent Software](https://www.releventsoftware.com)
 <br>Freelance availability: Contact for more info
 <!-- <img src="https://i.imgur.com/LQugd7S.png" width="60px"> -->
 &nbsp;  &nbsp; <!--  <img src="https://i.imgur.com/PVFpof6.png" width="60px"> -->
